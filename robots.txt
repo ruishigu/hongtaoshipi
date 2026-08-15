@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruishigu.github.io/hongtaoshipi/sitemap.xml
